@@ -58,7 +58,7 @@
 ## About The Project
 
 <kbd>
-    <img src="/ReadmeImages/image_1.png" />
+    <img src="/ReadmeImages/Image_1.png" />
 </kbd>
 
 The motivation for this project was to provide a mobile app that is free to use, includes the most essential features for a patient who's self-managing their own epilepsy whilst providing a healthcare collobaration feature which I found to be an underdeveloped area in the current epilepsy app market. 
@@ -67,25 +67,25 @@ The motivation for this project was to provide a mobile app that is free to use,
 * Health communication - separate clinician and patient accounts can be created and linked together to enable the sharing of patient data and thus assist in monitoring the progression of a patient's condition.
 
 <kbd>
-    <img src="/ReadmeImages/image_2.png" />
+    <img src="/ReadmeImages/Image_2.png" />
 </kbd>
 
 * Seizure tracking - the app incorporates a seizure diary, where seizures can be registered based on seizure date, time of occurrence, seizure type, triggers, and duration, with the natural sorting and ﬁltering of seizures by month and year.
 
 <kbd>
-    <img src="/ReadmeImages/image_3.png" />
+    <img src="/ReadmeImages/Image_3.png" />
 </kbd>
 
 * Treatment management - treatments can be added to the app and local notiﬁcations can be setup for certain days/times as reminders for treatment times.
 
 <kbd>
-    <img src="/ReadmeImages/image_4.png" />
+    <img src="/ReadmeImages/Image_4.png" />
 </kbd>
 
 * Medication adherence - the personalised home screen includes a list of the current treatments that need to be taken that day, as well as displaying relevant statistics relating to seizure count and treatment adherence via a graph and progress bar.
 
 <kbd>
-    <img src="/ReadmeImages/image_5.png" />
+    <img src="/ReadmeImages/Image_5.png" />
 </kbd>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
