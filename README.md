@@ -42,7 +42,6 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -59,40 +58,34 @@
 ## About The Project
 
 <kbd>
-    <img src="/ReadmeImages/welcome.png" />
+    <img src="/ReadmeImages/image_1.png" />
 </kbd>
 
-The motivation for this project was to provide a mobile app that is free to use, includes the most essential features for a patient who's self-managing their own epilepsy and to also include a healthcare collobaration feature which I found to be an underdeveloped area in the current epilepsy app market, despite it's importance when managing chronic conditions like epilepsy. 
+The motivation for this project was to provide a mobile app that is free to use, includes the most essential features for a patient who's self-managing their own epilepsy whilst providing a healthcare collobaration feature which I found to be an underdeveloped area in the current epilepsy app market. 
 
 <b>Solution</b>:
-* Health communication - separate clinician and patient accounts can be made and linked together to enable the sharing of patient data and thus assist in monitoring the progression of the patient's condition, and making improved treatment decisions from the data. 
+* Health communication - separate clinician and patient accounts can be created and linked together to enable the sharing of patient data and thus assist in monitoring the progression of a patient's condition.
 
 <kbd>
-    <img src="/ReadmeImages/addPatient.png" />
-    <img src="/ReadmeImages/linkAccounts.png" />
-    <img src="/ReadmeImages/seizureGraph.png" />
-    <img src="/ReadmeImages/pieChart.png" />
+    <img src="/ReadmeImages/image_2.png" />
 </kbd>
 
 * Seizure tracking - the app incorporates a seizure diary, where seizures can be registered based on seizure date, time of occurrence, seizure type, triggers, and duration, with the natural sorting and ﬁltering of seizures by month and year.
 
 <kbd>
-    <img src="/ReadmeImages/seizureList.png" />
-    <img src="/ReadmeImages/addSeizure.png" />
-    <img src="/ReadmeImages/seizureDetails.png" />
+    <img src="/ReadmeImages/image_3.png" />
 </kbd>
 
 * Treatment management - treatments can be added to the app and local notiﬁcations can be setup for certain days/times as reminders for treatment times.
 
 <kbd>
-    <img src="/ReadmeImages/treatmentList.png" />
-    <img src="/ReadmeImages/addTreatment.png" />
+    <img src="/ReadmeImages/image_4.png" />
 </kbd>
 
 * Medication adherence - the personalised home screen includes a list of the current treatments that need to be taken that day, as well as displaying relevant statistics relating to seizure count and treatment adherence via a graph and progress bar.
 
 <kbd>
-    <img src="/ReadmeImages/home.png" />
+    <img src="/ReadmeImages/image_5.png" />
 </kbd>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -126,13 +119,13 @@ To get a local copy up and running follow these simple example steps.
 
 ## Connecting to the [Firebase Console](https://console.firebase.google.com)
 
-We will need to connect our quickstart with the [Firebase Console](https://console.firebase.google.com). For an in depth explanation, you can read more about [adding Firebase to your iOS Project](https://firebase.google.com/docs/ios/setup).
+We will need to connect the app with the [Firebase Console](https://console.firebase.google.com). For an in depth explanation, you can read more about [adding Firebase to your iOS Project](https://firebase.google.com/docs/ios/setup).
 
 ### Here's a summary of the steps!
 1. Visit the [Firebase Console](https://console.firebase.google.com) and create a new app.
 2. Add an iOS app to the project. Make sure the `Bundle Identifier` you set for this iOS App matches that of the one in this quickstart.
 3. Download the `GoogleService-Info.plist` when prompted.
-4. Drag the downloaded `GoogleService-Info.plist` into the opened quickstart app. In Xcode, you can also add this file to the project by going to `File`-> `Add Files to 'AuthenticationExample'` and selecting the downloaded `.plist` file. Be sure to add the `.plist` file to the app's main target.
+4. Drag the downloaded `GoogleService-Info.plist` into the opened Carerilepsy app. In Xcode, you can also add this file to the project by going to `File`-> `Add Files to 'AuthenticationExample'` and selecting the downloaded `.plist` file. Be sure to add the `.plist` file to the app's main target.
 5. At this point, you can build and run the app! 🎉
 
 
