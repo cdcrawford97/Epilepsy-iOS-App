@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "2E53ED6F-ABB1-4096-802F-A78593F5839E",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "skippedTests" : [
+        "CarerilepsyTests",
+        "NotificationManagerTests",
+        "SeizureTests"
+      ],
+      "target" : {
+        "containerPath" : "container:Carerilepsy.xcodeproj",
+        "identifier" : "A73A286526DD777700270668",
+        "name" : "CarerilepsyTests"
+      }
+    }
+  ],
+  "version" : 1
+}
